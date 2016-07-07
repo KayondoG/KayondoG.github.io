@@ -1,0 +1,103 @@
+#sub_section{
+   
+}
+
+#section{
+	
+}
+
+#sub_section img{
+    margin-top: 0px;
+}
+#image{
+	background: url("40.jpg");
+	width: 1350px;
+	height: 500px;
+	background-position: center center; 
+}
+
+#image p{
+	padding-top: 200px;
+	color: #FFF;
+font-size: 55px;
+font-weight: 600;
+margin-top: 0px;
+text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2);
+
+}
+
+
+
+
+#body{
+	background-color: #444D58;
+	width: 1350px;
+	color: #A2ABB7;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 0px;
+	padding-left: 0px;
+	clear: both;
+	height: 400px;
+
+}
+#pre-body{
+	
+	background: #00CC00;
+	text-align: center;
+	padding-bottom: 5px;
+	padding-top: 5px;
+     width: 1350px;
+}
+#pre-body a{
+         text-transform: lowercase;
+         
+
+}
+#row{
+	margin-right:-15px; 
+	margin-left: -15px;
+	padding-left: 50px;
+	
+}
+#body_details{
+	position: relative;
+	padding-left:45px; 
+	padding-right:15px;
+	width: 25%;
+	float: left;
+	min-height: 1px;
+}
+#body h4{
+	color: #32C5D2;
+font-weight: 700;
+font-size: 15px;
+text-transform: uppercase;
+letter-spacing: 1px;
+margin: 0px 0px 12px; 
+
+}
+
+#photo{
+	width: 100%;
+}
+
+#photo img{
+	
+	width: 150px;
+	height: 150px;
+	border-radius: 50% !important;
+}
+
+#photo1 img{
+	
+	width: 260px;
+	height: 260px;
+	border-radius: 50% !important;
+}
+#photo2 img{
+	
+	width: 210px;
+	height: 210px;
+	border-radius: 50% !important;
+}

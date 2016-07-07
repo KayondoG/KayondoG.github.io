@@ -1,0 +1,98 @@
+#menu_header{background-color:#00CC00; width: 1350px;}
+#header{text-align: center; 
+	     text-transform: uppercase;
+	     padding-top: 20px;
+         height: 100px; 
+         padding-bottom: 20px;
+
+	     }
+#list{width: 1350
+	px; margin-right: auto;
+        margin-left: auto;
+        }
+
+
+#menu{background-color: #444D58;
+      height: 50px;
+      display: inline-block;
+      padding-bottom: 20px;
+          
+          }
+
+#nav{
+	position: relative;
+	float: left;
+
+}
+
+#nav >li{
+	float:left;
+	display: block;
+	font-size: 16px;
+	margin-top: 15px;
+	width:100px;
+	padding-left: 200px;
+
+
+}
+
+#nav a{
+	text-shadow:none;
+	color: #FFF;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+          
+
+
+
+
+
+
+#footer{
+	background-color: #444D58;
+	width: 1350px;
+	color: #A2ABB7;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 0px;
+	padding-left: 0px;
+	clear: both;
+	height: 100px;
+
+}
+#pre-footer{
+	
+	background: #00CC00;
+	text-align: center;
+	padding-bottom: 3px;
+	padding-top: 3px;
+     width: 1350px;
+}
+#pre-footer a{
+         text-transform: lowercase;
+         
+
+}
+#row{
+	margin-right:-15px; 
+	margin-left: -15px;
+	
+}
+#footer-block{
+	position: relative;
+	padding-left:35px; 
+	padding-right:35px;
+	width: 25%;
+	float: left;
+	min-height: 1px;
+}
+#footer h4{
+	color: #32C5D2;
+font-weight: 700;
+font-size: 15px;
+text-transform: uppercase;
+letter-spacing: 1px;
+margin: 0px 0px 12px; 
+
+}

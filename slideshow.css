@@ -1,0 +1,47 @@
+#crossfade{
+	position: relative;margin: 0; padding: 0; 
+	list-style-type: none; width: 1350px; height: 500px;
+	overflow: hidden; float:left;
+
+}
+
+#crossfade li{
+	position: absolute; width: 1350px; height: 500px;
+}
+.page-content-page{
+		background: #FFF;
+}
+
+#crossfade img{
+	width: 1350px;
+	height: 500px;
+}
+.col-lg-9{
+
+	background: #FFF;
+	border-radius: 3px 3px 3px 3px;
+	box-shadow: 0px 2px 3px 2px rgba(0,0,0,0.03);
+	width: 1200px;
+	
+}
+.line h2{
+	text-align: center;
+	text-transform: uppercase;
+	
+}
+#crossfade1{
+	position: relative;margin: 0; padding: 0; 
+	list-style-type: none; width: 123px; height: 500px;
+	overflow: hidden; float:left;
+
+}
+#crossfade1 li{
+	position: absolute; width: 123px; height: 500px;
+}
+.page-content-page{
+		background: #FFF;
+}
+
+#crossfade1 img{
+	width: 123px;
+	height: 500px;
